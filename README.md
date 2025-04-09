@@ -1,9 +1,12 @@
 # ip-country-ranking
-Country-ranked global IP statistics, powered by [MaxMind's GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/) database
 
-## IP Count (Sorted)
+Country-ranked global IP statistics, based on data from [MaxMind's GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/)
 
-| ISO | Flag | Country | IPv4 Block | IPv4 Count | IPv6 Block | IPv6 Count |
+## IP Count (Sorted by IPv4 Blocks)
+
+Country names follow the naming convention from [ppy/osu](https://github.com/ppy/osu), and flags are sourced from [Twemoji](https://github.com/twitter/twemoji) 14.0.2 assets
+
+| ISO | Flag | Country | IPv4 Blocks | IPv4 Count | IPv6 Blocks | IPv6 Count |
 | :---: | :---: | --- | :---: | :---: | :---: | :---: |
 | US | <img src="/flags/US.png" width="35" valign="middle"/> | United States | 182,054 | 1,527,002,469 | 210,872 | 1.13e+34 |
 | GB | <img src="/flags/GB.png" width="35" valign="middle"/> | United Kingdom | 33,070 | 133,155,798 | 16,269 | 1.74e+33 |
