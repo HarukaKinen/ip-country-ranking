@@ -219,6 +219,7 @@ country_list = [
     {"acronym": "SN", "name": "Senegal"},
     {"acronym": "SO", "name": "Somalia"},
     {"acronym": "SR", "name": "Suriname"},
+    {"acronym": "SS", "name": "South Sudan"},
     {"acronym": "ST", "name": "Sao Tome and Principe"},
     {"acronym": "SV", "name": "El Salvador"},
     {"acronym": "SX", "name": "Sint Maarten"},
