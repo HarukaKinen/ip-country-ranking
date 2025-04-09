@@ -209,7 +209,7 @@ Country names follow the naming convention from [ppy/osu](https://github.com/ppy
 | GL | <img src="/flags/GL.png" width="35" valign="middle"/> | Greenland | 99 | 35,572 | 117 | 7.93e+29 |
 | TD | <img src="/flags/TD.png" width="35" valign="middle"/> | Chad | 96 | 34,208 | 84 | 2.38e+29 |
 | GD | <img src="/flags/GD.png" width="35" valign="middle"/> | Grenada | 111 | 31,968 | 84 | 1.44e+30 |
-| SS | <img src="/flags/SS.png" width="35" valign="middle"/> | SS | 92 | 30,911 | 74 | 4.76e+29 |
+| SS | <img src="/flags/SS.png" width="35" valign="middle"/> | South Sudan | 92 | 30,911 | 74 | 4.76e+29 |
 | BQ | <img src="/flags/BQ.png" width="35" valign="middle"/> | Caribbean Netherlands | 55 | 28,336 | 75 | 9.46e+29 |
 | VC | <img src="/flags/VC.png" width="35" valign="middle"/> | Saint Vincent and the Grenadines | 95 | 27,749 | 70 | 1.27e+30 |
 | TL | <img src="/flags/TL.png" width="35" valign="middle"/> | Timor-Leste | 89 | 27,631 | 91 | 6.35e+29 |
