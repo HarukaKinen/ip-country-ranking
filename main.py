@@ -297,7 +297,7 @@ with maxminddb.open_database("./GeoLite2-Country.mmdb") as country_reader:
             country_stats[country]["ipv4_blocks"] += 1
 
 
-for country, stats in sorted(country_stats.items(), key=lambda x: x[1]["ipv4_blocks"], reverse=True):
+for country, stats in sorted(country_stats.items(), key=lambda x: x[1]["ipv4_count"], reverse=True):
     print(f"{country}:")
     print(
         f"  IPv4: {stats['ipv4_count']:,} IPs in {stats['ipv4_blocks']:,} blocks")
@@ -306,11 +306,11 @@ for country, stats in sorted(country_stats.items(), key=lambda x: x[1]["ipv4_blo
 
 lines = []
 lines.append(
-    "| ISO | Flag | Country | IPv4 Block | IPv4 Count | IPv6 Block | IPv6 Count |")
+    "| ISO | Flag | Country | IPv4 Blocks | IPv4 Count | IPv6 Blocks | IPv6 Count |")
 lines.append("| :---: | :---: | --- | :---: | :---: | :---: | :---: |")
 
 
-for country_code, stats in sorted(country_stats.items(), key=lambda x: x[1]["ipv4_blocks"], reverse=True):
+for country_code, stats in sorted(country_stats.items(), key=lambda x: x[1]["ipv4_count"], reverse=True):
     name = next((c['name'] for c in country_list if c['acronym']
                 == country_code), country_code)
     flag = f'<img src="/flags/{country_code}.png" width="35" valign="middle"/>'
@@ -329,7 +329,7 @@ else:
     with open(readme_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    marker = "| ISO | Flag | Country | IPv4 Block | IPv4 Count | IPv6 Block | IPv6 Count |"
+    marker = "| ISO | Flag | Country | IPv4 Blocks | IPv4 Count | IPv6 Blocks | IPv6 Count |"
     if marker in content:
         start = content.index(marker)
         end = content.find("\n\n", start)

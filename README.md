@@ -2,7 +2,7 @@
 
 Country-ranked global IP statistics, based on data from [MaxMind's GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite2/)
 
-## IP Count (Sorted by IPv4 Blocks)
+## IP Count (Sorted by IPv4 Count)
 
 Country names follow the naming convention from [ppy/osu](https://github.com/ppy/osu), and flags are sourced from [Twemoji](https://github.com/twitter/twemoji) 14.0.2 assets
 
