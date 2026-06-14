@@ -8,247 +8,247 @@ Country names follow the naming convention from [ppy/osu](https://github.com/ppy
 
 | ISO | Flag | Country | IPv4 Blocks | IPv4 Count | IPv6 Blocks | IPv6 Count |
 | :---: | :---: | --- | :---: | :---: | :---: | :---: |
-| US | <img src="/flags/US.png" width="35" valign="middle"/> | United States | 172,729 | 1,516,830,889 | 313,784 | 1.14e+34 |
-| CN | <img src="/flags/CN.png" width="35" valign="middle"/> | China | 7,779 | 345,229,682 | 10,919 | 5.43e+33 |
-| JP | <img src="/flags/JP.png" width="35" valign="middle"/> | Japan | 12,321 | 199,501,291 | 6,264 | 8.14e+32 |
-| DE | <img src="/flags/DE.png" width="35" valign="middle"/> | Germany | 28,641 | 134,238,376 | 41,095 | 1.96e+33 |
-| GB | <img src="/flags/GB.png" width="35" valign="middle"/> | United Kingdom | 33,070 | 134,179,818 | 13,535 | 1.71e+33 |
-| KR | <img src="/flags/KR.png" width="35" valign="middle"/> | South Korea | 3,937 | 116,157,136 | 1,670 | 4.20e+32 |
-| BR | <img src="/flags/BR.png" width="35" valign="middle"/> | Brazil | 10,743 | 84,615,697 | 12,890 | 6.72e+32 |
-| FR | <img src="/flags/FR.png" width="35" valign="middle"/> | France | 31,347 | 83,623,029 | 6,486 | 1.21e+33 |
-| CA | <img src="/flags/CA.png" width="35" valign="middle"/> | Canada | 17,698 | 71,439,257 | 10,969 | 1.15e+32 |
-| IT | <img src="/flags/IT.png" width="35" valign="middle"/> | Italy | 9,333 | 57,271,331 | 3,652 | 8.58e+32 |
-| NL | <img src="/flags/NL.png" width="35" valign="middle"/> | Netherlands | 20,090 | 54,434,965 | 76,653 | 8.89e+32 |
-| AU | <img src="/flags/AU.png" width="35" valign="middle"/> | Australia | 10,849 | 52,408,771 | 5,286 | 7.56e+32 |
-| IN | <img src="/flags/IN.png" width="35" valign="middle"/> | India | 13,116 | 48,487,309 | 7,298 | 5.35e+32 |
-| RU | <img src="/flags/RU.png" width="35" valign="middle"/> | Russian Federation | 13,217 | 45,611,320 | 11,920 | 8.72e+32 |
-| TW | <img src="/flags/TW.png" width="35" valign="middle"/> | Taiwan | 2,419 | 37,129,274 | 2,258 | 2.06e+32 |
-| ES | <img src="/flags/ES.png" width="35" valign="middle"/> | Spain | 10,560 | 35,308,846 | 3,276 | 4.54e+32 |
-| SE | <img src="/flags/SE.png" width="35" valign="middle"/> | Sweden | 10,162 | 32,601,002 | 4,387 | 5.57e+32 |
-| MX | <img src="/flags/MX.png" width="35" valign="middle"/> | Mexico | 4,114 | 30,478,250 | 2,324 | 5.90e+31 |
-| ZA | <img src="/flags/ZA.png" width="35" valign="middle"/> | South Africa | 3,969 | 28,363,048 | 1,530 | 4.27e+32 |
-| SG | <img src="/flags/SG.png" width="35" valign="middle"/> | Singapore | 9,265 | 27,224,808 | 4,408 | 2.73e+33 |
-| CH | <img src="/flags/CH.png" width="35" valign="middle"/> | Switzerland | 6,624 | 24,880,794 | 6,696 | 3.26e+32 |
-| EG | <img src="/flags/EG.png" width="35" valign="middle"/> | Egypt | 724 | 24,222,648 | 200 | 3.27e+32 |
-| HK | <img src="/flags/HK.png" width="35" valign="middle"/> | Hong Kong | 11,322 | 22,868,829 | 4,557 | 1.66e+32 |
-| ID | <img src="/flags/ID.png" width="35" valign="middle"/> | Indonesia | 6,399 | 21,013,651 | 3,919 | 6.73e+31 |
-| PL | <img src="/flags/PL.png" width="35" valign="middle"/> | Poland | 8,061 | 21,001,224 | 3,227 | 4.94e+32 |
-| AR | <img src="/flags/AR.png" width="35" valign="middle"/> | Argentina | 3,765 | 19,671,609 | 1,851 | 4.21e+32 |
-| IE | <img src="/flags/IE.png" width="35" valign="middle"/> | Ireland | 5,086 | 17,885,626 | 4,264 | 8.83e+31 |
-| CO | <img src="/flags/CO.png" width="35" valign="middle"/> | Colombia | 2,186 | 17,774,132 | 1,454 | 3.21e+31 |
-| TR | <img src="/flags/TR.png" width="35" valign="middle"/> | Türkiye | 3,462 | 17,373,282 | 1,895 | 3.83e+32 |
-| VN | <img src="/flags/VN.png" width="35" valign="middle"/> | Vietnam | 2,161 | 16,729,521 | 1,593 | 3.47e+31 |
-| NO | <img src="/flags/NO.png" width="35" valign="middle"/> | Norway | 3,140 | 16,497,999 | 1,340 | 1.83e+32 |
-| FI | <img src="/flags/FI.png" width="35" valign="middle"/> | Finland | 3,586 | 14,838,726 | 41,971 | 1.20e+32 |
-| BE | <img src="/flags/BE.png" width="35" valign="middle"/> | Belgium | 5,256 | 14,324,197 | 1,528 | 1.34e+32 |
-| DK | <img src="/flags/DK.png" width="35" valign="middle"/> | Denmark | 3,730 | 12,323,850 | 1,158 | 1.49e+32 |
-| MA | <img src="/flags/MA.png" width="35" valign="middle"/> | Morocco | 477 | 12,305,251 | 190 | 2.15e+31 |
-| SA | <img src="/flags/SA.png" width="35" valign="middle"/> | Saudi Arabia | 1,630 | 11,846,174 | 551 | 4.81e+31 |
-| AT | <img src="/flags/AT.png" width="35" valign="middle"/> | Austria | 4,708 | 11,301,314 | 2,456 | 1.94e+32 |
-| IR | <img src="/flags/IR.png" width="35" valign="middle"/> | Islamic Republic of Iran | 2,034 | 10,952,803 | 706 | 3.19e+32 |
-| CL | <img src="/flags/CL.png" width="35" valign="middle"/> | Chile | 1,929 | 10,848,594 | 1,233 | 2.29e+31 |
-| TH | <img src="/flags/TH.png" width="35" valign="middle"/> | Thailand | 1,946 | 10,199,198 | 1,079 | 9.82e+30 |
-| UA | <img src="/flags/UA.png" width="35" valign="middle"/> | Ukraine | 5,490 | 9,378,279 | 2,449 | 2.16e+32 |
-| IL | <img src="/flags/IL.png" width="35" valign="middle"/> | Israel | 2,038 | 8,912,603 | 1,858 | 7.89e+31 |
-| CZ | <img src="/flags/CZ.png" width="35" valign="middle"/> | Czechia | 3,621 | 8,755,715 | 1,840 | 2.46e+32 |
-| MY | <img src="/flags/MY.png" width="35" valign="middle"/> | Malaysia | 2,507 | 7,974,569 | 1,312 | 1.52e+31 |
-| TN | <img src="/flags/TN.png" width="35" valign="middle"/> | Tunisia | 212 | 7,880,835 | 104 | 2.06e+30 |
-| VE | <img src="/flags/VE.png" width="35" valign="middle"/> | Venezuela | 941 | 7,658,498 | 586 | 3.92e+31 |
-| RO | <img src="/flags/RO.png" width="35" valign="middle"/> | Romania | 3,991 | 7,482,358 | 1,153 | 1.01e+32 |
-| NZ | <img src="/flags/NZ.png" width="35" valign="middle"/> | New Zealand | 2,254 | 7,343,548 | 1,280 | 2.42e+31 |
-| PT | <img src="/flags/PT.png" width="35" valign="middle"/> | Portugal | 1,842 | 6,874,084 | 731 | 5.45e+31 |
-| PH | <img src="/flags/PH.png" width="35" valign="middle"/> | Philippines | 2,033 | 6,610,174 | 1,003 | 1.70e+31 |
-| KE | <img src="/flags/KE.png" width="35" valign="middle"/> | Kenya | 929 | 6,310,174 | 348 | 1.08e+31 |
-| AE | <img src="/flags/AE.png" width="35" valign="middle"/> | United Arab Emirates | 3,310 | 6,291,767 | 2,042 | 3.00e+32 |
-| HU | <img src="/flags/HU.png" width="35" valign="middle"/> | Hungary | 1,798 | 5,966,777 | 1,047 | 6.02e+31 |
-| GR | <img src="/flags/GR.png" width="35" valign="middle"/> | Greece | 1,432 | 5,899,918 | 412 | 4.31e+31 |
-| PK | <img src="/flags/PK.png" width="35" valign="middle"/> | Pakistan | 1,340 | 5,752,973 | 605 | 1.55e+31 |
+| US | <img src="/flags/US.png" width="35" valign="middle"/> | United States | 161,516 | 1,512,685,928 | 245,962 | 1.14e+34 |
+| CN | <img src="/flags/CN.png" width="35" valign="middle"/> | China | 7,796 | 345,249,896 | 10,932 | 5.43e+33 |
+| JP | <img src="/flags/JP.png" width="35" valign="middle"/> | Japan | 12,185 | 199,491,256 | 5,822 | 8.14e+32 |
+| DE | <img src="/flags/DE.png" width="35" valign="middle"/> | Germany | 28,800 | 134,521,784 | 40,538 | 1.96e+33 |
+| GB | <img src="/flags/GB.png" width="35" valign="middle"/> | United Kingdom | 35,599 | 134,121,228 | 14,631 | 1.71e+33 |
+| KR | <img src="/flags/KR.png" width="35" valign="middle"/> | South Korea | 3,954 | 116,156,037 | 1,572 | 4.20e+32 |
+| BR | <img src="/flags/BR.png" width="35" valign="middle"/> | Brazil | 13,481 | 85,789,960 | 11,991 | 6.72e+32 |
+| FR | <img src="/flags/FR.png" width="35" valign="middle"/> | France | 32,680 | 83,513,941 | 6,580 | 1.21e+33 |
+| CA | <img src="/flags/CA.png" width="35" valign="middle"/> | Canada | 16,975 | 72,308,887 | 9,410 | 1.15e+32 |
+| IT | <img src="/flags/IT.png" width="35" valign="middle"/> | Italy | 9,615 | 57,183,272 | 6,214 | 8.58e+32 |
+| NL | <img src="/flags/NL.png" width="35" valign="middle"/> | Netherlands | 18,794 | 54,188,322 | 55,999 | 8.89e+32 |
+| AU | <img src="/flags/AU.png" width="35" valign="middle"/> | Australia | 12,039 | 52,913,849 | 6,256 | 7.56e+32 |
+| IN | <img src="/flags/IN.png" width="35" valign="middle"/> | India | 12,962 | 48,493,045 | 7,136 | 5.35e+32 |
+| RU | <img src="/flags/RU.png" width="35" valign="middle"/> | Russian Federation | 13,174 | 45,592,648 | 11,928 | 8.72e+32 |
+| TW | <img src="/flags/TW.png" width="35" valign="middle"/> | Taiwan | 2,421 | 37,117,342 | 2,687 | 2.06e+32 |
+| ES | <img src="/flags/ES.png" width="35" valign="middle"/> | Spain | 11,015 | 35,459,457 | 3,456 | 4.54e+32 |
+| SE | <img src="/flags/SE.png" width="35" valign="middle"/> | Sweden | 9,932 | 31,485,491 | 4,358 | 5.57e+32 |
+| MX | <img src="/flags/MX.png" width="35" valign="middle"/> | Mexico | 4,387 | 30,642,633 | 2,171 | 5.90e+31 |
+| ZA | <img src="/flags/ZA.png" width="35" valign="middle"/> | South Africa | 3,965 | 29,072,586 | 1,511 | 4.27e+32 |
+| SG | <img src="/flags/SG.png" width="35" valign="middle"/> | Singapore | 9,327 | 27,354,966 | 4,087 | 2.73e+33 |
+| CH | <img src="/flags/CH.png" width="35" valign="middle"/> | Switzerland | 6,425 | 24,897,561 | 5,574 | 3.26e+32 |
+| EG | <img src="/flags/EG.png" width="35" valign="middle"/> | Egypt | 731 | 24,214,457 | 201 | 3.27e+32 |
+| HK | <img src="/flags/HK.png" width="35" valign="middle"/> | Hong Kong | 11,510 | 22,870,123 | 4,599 | 1.66e+32 |
+| ID | <img src="/flags/ID.png" width="35" valign="middle"/> | Indonesia | 6,427 | 21,022,893 | 4,816 | 6.73e+31 |
+| PL | <img src="/flags/PL.png" width="35" valign="middle"/> | Poland | 8,078 | 20,993,675 | 3,189 | 4.94e+32 |
+| AR | <img src="/flags/AR.png" width="35" valign="middle"/> | Argentina | 3,454 | 19,604,468 | 1,863 | 4.21e+32 |
+| IE | <img src="/flags/IE.png" width="35" valign="middle"/> | Ireland | 5,086 | 18,030,917 | 3,327 | 8.83e+31 |
+| CO | <img src="/flags/CO.png" width="35" valign="middle"/> | Colombia | 2,207 | 17,898,474 | 1,417 | 3.21e+31 |
+| TR | <img src="/flags/TR.png" width="35" valign="middle"/> | Türkiye | 3,433 | 17,348,457 | 2,496 | 3.83e+32 |
+| VN | <img src="/flags/VN.png" width="35" valign="middle"/> | Vietnam | 2,161 | 16,729,521 | 1,569 | 3.47e+31 |
+| NO | <img src="/flags/NO.png" width="35" valign="middle"/> | Norway | 3,094 | 16,363,229 | 1,266 | 1.83e+32 |
+| FI | <img src="/flags/FI.png" width="35" valign="middle"/> | Finland | 3,497 | 14,820,952 | 41,985 | 1.20e+32 |
+| BE | <img src="/flags/BE.png" width="35" valign="middle"/> | Belgium | 5,420 | 14,414,672 | 1,602 | 1.34e+32 |
+| DK | <img src="/flags/DK.png" width="35" valign="middle"/> | Denmark | 3,896 | 12,698,521 | 1,126 | 1.49e+32 |
+| MA | <img src="/flags/MA.png" width="35" valign="middle"/> | Morocco | 476 | 12,304,995 | 190 | 2.15e+31 |
+| SA | <img src="/flags/SA.png" width="35" valign="middle"/> | Saudi Arabia | 1,632 | 11,857,439 | 1,687 | 4.81e+31 |
+| AT | <img src="/flags/AT.png" width="35" valign="middle"/> | Austria | 4,649 | 11,295,747 | 2,486 | 1.94e+32 |
+| IR | <img src="/flags/IR.png" width="35" valign="middle"/> | Islamic Republic of Iran | 2,032 | 10,944,099 | 704 | 3.19e+32 |
+| CL | <img src="/flags/CL.png" width="35" valign="middle"/> | Chile | 1,910 | 10,867,358 | 8,421 | 2.29e+31 |
+| TH | <img src="/flags/TH.png" width="35" valign="middle"/> | Thailand | 1,945 | 10,169,510 | 1,404 | 9.82e+30 |
+| UA | <img src="/flags/UA.png" width="35" valign="middle"/> | Ukraine | 5,549 | 9,505,786 | 2,382 | 2.16e+32 |
+| IL | <img src="/flags/IL.png" width="35" valign="middle"/> | Israel | 2,097 | 8,961,337 | 1,851 | 7.89e+31 |
+| CZ | <img src="/flags/CZ.png" width="35" valign="middle"/> | Czechia | 3,655 | 8,737,672 | 1,801 | 2.46e+32 |
+| MY | <img src="/flags/MY.png" width="35" valign="middle"/> | Malaysia | 2,523 | 8,038,983 | 1,325 | 1.52e+31 |
+| TN | <img src="/flags/TN.png" width="35" valign="middle"/> | Tunisia | 202 | 7,881,603 | 104 | 2.06e+30 |
+| VE | <img src="/flags/VE.png" width="35" valign="middle"/> | Venezuela | 940 | 7,657,222 | 588 | 3.92e+31 |
+| RO | <img src="/flags/RO.png" width="35" valign="middle"/> | Romania | 4,009 | 7,480,412 | 1,120 | 1.01e+32 |
+| NZ | <img src="/flags/NZ.png" width="35" valign="middle"/> | New Zealand | 2,338 | 7,346,026 | 1,577 | 2.42e+31 |
+| PT | <img src="/flags/PT.png" width="35" valign="middle"/> | Portugal | 1,910 | 6,890,761 | 702 | 5.45e+31 |
+| PH | <img src="/flags/PH.png" width="35" valign="middle"/> | Philippines | 2,046 | 6,613,702 | 1,023 | 1.70e+31 |
+| KE | <img src="/flags/KE.png" width="35" valign="middle"/> | Kenya | 867 | 6,379,524 | 348 | 1.08e+31 |
+| AE | <img src="/flags/AE.png" width="35" valign="middle"/> | United Arab Emirates | 3,300 | 6,297,902 | 2,385 | 3.00e+32 |
+| HU | <img src="/flags/HU.png" width="35" valign="middle"/> | Hungary | 1,811 | 5,974,967 | 1,031 | 6.02e+31 |
+| GR | <img src="/flags/GR.png" width="35" valign="middle"/> | Greece | 1,492 | 5,942,555 | 998 | 4.31e+31 |
+| PK | <img src="/flags/PK.png" width="35" valign="middle"/> | Pakistan | 1,343 | 5,790,093 | 613 | 1.55e+31 |
 | DZ | <img src="/flags/DZ.png" width="35" valign="middle"/> | Algeria | 219 | 4,779,214 | 177 | 5.56e+29 |
-| BG | <img src="/flags/BG.png" width="35" valign="middle"/> | Bulgaria | 2,337 | 4,290,371 | 876 | 9.42e+31 |
-| PE | <img src="/flags/PE.png" width="35" valign="middle"/> | Peru | 1,133 | 3,759,789 | 733 | 1.72e+31 |
-| KZ | <img src="/flags/KZ.png" width="35" valign="middle"/> | Kazakhstan | 1,244 | 3,516,908 | 960 | 4.24e+31 |
-| MU | <img src="/flags/MU.png" width="35" valign="middle"/> | Mauritius | 842 | 3,297,936 | 261 | 1.67e+30 |
-| NG | <img src="/flags/NG.png" width="35" valign="middle"/> | Nigeria | 1,078 | 3,260,159 | 477 | 1.11e+31 |
-| SC | <img src="/flags/SC.png" width="35" valign="middle"/> | Seychelles | 2,516 | 3,131,707 | 2,184 | 3.35e+32 |
-| LT | <img src="/flags/LT.png" width="35" valign="middle"/> | Lithuania | 1,652 | 2,912,696 | 853 | 1.64e+32 |
-| EC | <img src="/flags/EC.png" width="35" valign="middle"/> | Ecuador | 756 | 2,858,667 | 555 | 1.97e+31 |
-| SK | <img src="/flags/SK.png" width="35" valign="middle"/> | Slovakia | 1,174 | 2,799,874 | 564 | 5.36e+31 |
-| SI | <img src="/flags/SI.png" width="35" valign="middle"/> | Slovenia | 1,088 | 2,669,276 | 442 | 3.93e+31 |
-| UY | <img src="/flags/UY.png" width="35" valign="middle"/> | Uruguay | 270 | 2,541,554 | 133 | 3.18e+30 |
-| HR | <img src="/flags/HR.png" width="35" valign="middle"/> | Croatia | 793 | 2,444,187 | 289 | 2.82e+31 |
-| CR | <img src="/flags/CR.png" width="35" valign="middle"/> | Costa Rica | 588 | 2,349,795 | 310 | 8.03e+30 |
-| RS | <img src="/flags/RS.png" width="35" valign="middle"/> | Serbia | 964 | 2,326,636 | 476 | 3.42e+31 |
-| GH | <img src="/flags/GH.png" width="35" valign="middle"/> | Ghana | 340 | 2,216,092 | 212 | 2.25e+31 |
-| BD | <img src="/flags/BD.png" width="35" valign="middle"/> | Bangladesh | 2,635 | 2,112,241 | 1,845 | 5.81e+31 |
-| DO | <img src="/flags/DO.png" width="35" valign="middle"/> | Dominican Republic | 601 | 2,019,421 | 392 | 1.55e+31 |
-| LV | <img src="/flags/LV.png" width="35" valign="middle"/> | Latvia | 1,223 | 1,963,989 | 451 | 2.71e+31 |
-| KW | <img src="/flags/KW.png" width="35" valign="middle"/> | Kuwait | 456 | 1,928,986 | 137 | 1.61e+31 |
+| BG | <img src="/flags/BG.png" width="35" valign="middle"/> | Bulgaria | 2,326 | 4,286,535 | 864 | 9.42e+31 |
+| PE | <img src="/flags/PE.png" width="35" valign="middle"/> | Peru | 1,103 | 3,760,838 | 727 | 1.72e+31 |
+| KZ | <img src="/flags/KZ.png" width="35" valign="middle"/> | Kazakhstan | 1,308 | 3,519,968 | 959 | 4.24e+31 |
+| LT | <img src="/flags/LT.png" width="35" valign="middle"/> | Lithuania | 1,901 | 3,343,398 | 2,419 | 1.64e+32 |
+| NG | <img src="/flags/NG.png" width="35" valign="middle"/> | Nigeria | 1,077 | 3,259,903 | 477 | 1.11e+31 |
+| SC | <img src="/flags/SC.png" width="35" valign="middle"/> | Seychelles | 2,556 | 3,046,460 | 2,184 | 3.35e+32 |
+| EC | <img src="/flags/EC.png" width="35" valign="middle"/> | Ecuador | 736 | 2,872,962 | 538 | 1.97e+31 |
+| SK | <img src="/flags/SK.png" width="35" valign="middle"/> | Slovakia | 1,174 | 2,799,620 | 569 | 5.36e+31 |
+| SI | <img src="/flags/SI.png" width="35" valign="middle"/> | Slovenia | 1,035 | 2,640,866 | 431 | 3.93e+31 |
+| UY | <img src="/flags/UY.png" width="35" valign="middle"/> | Uruguay | 269 | 2,548,466 | 132 | 3.18e+30 |
+| HR | <img src="/flags/HR.png" width="35" valign="middle"/> | Croatia | 819 | 2,475,414 | 278 | 2.82e+31 |
+| MU | <img src="/flags/MU.png" width="35" valign="middle"/> | Mauritius | 352 | 2,405,134 | 250 | 1.59e+30 |
+| CR | <img src="/flags/CR.png" width="35" valign="middle"/> | Costa Rica | 585 | 2,354,143 | 303 | 8.03e+30 |
+| RS | <img src="/flags/RS.png" width="35" valign="middle"/> | Serbia | 959 | 2,329,196 | 413 | 3.42e+31 |
+| GH | <img src="/flags/GH.png" width="35" valign="middle"/> | Ghana | 340 | 2,216,092 | 209 | 2.25e+31 |
+| LV | <img src="/flags/LV.png" width="35" valign="middle"/> | Latvia | 1,217 | 2,169,398 | 445 | 2.71e+31 |
+| BD | <img src="/flags/BD.png" width="35" valign="middle"/> | Bangladesh | 2,628 | 2,110,705 | 1,912 | 5.81e+31 |
+| DO | <img src="/flags/DO.png" width="35" valign="middle"/> | Dominican Republic | 613 | 2,034,685 | 392 | 1.55e+31 |
+| KW | <img src="/flags/KW.png" width="35" valign="middle"/> | Kuwait | 456 | 1,928,986 | 290 | 1.61e+31 |
 | SD | <img src="/flags/SD.png" width="35" valign="middle"/> | Sudan | 115 | 1,898,281 | 75 | 1.19e+30 |
 | BY | <img src="/flags/BY.png" width="35" valign="middle"/> | Belarus | 419 | 1,891,159 | 332 | 1.28e+31 |
-| PA | <img src="/flags/PA.png" width="35" valign="middle"/> | Panama | 567 | 1,811,353 | 350 | 1.00e+31 |
-| CI | <img src="/flags/CI.png" width="35" valign="middle"/> | Cote D'Ivoire | 344 | 1,722,988 | 107 | 3.34e+30 |
-| ZM | <img src="/flags/ZM.png" width="35" valign="middle"/> | Zambia | 185 | 1,632,010 | 88 | 7.14e+29 |
-| EE | <img src="/flags/EE.png" width="35" valign="middle"/> | Estonia | 1,229 | 1,526,809 | 551 | 6.22e+31 |
-| LU | <img src="/flags/LU.png" width="35" valign="middle"/> | Luxembourg | 1,537 | 1,467,691 | 414 | 3.88e+31 |
-| UG | <img src="/flags/UG.png" width="35" valign="middle"/> | Uganda | 219 | 1,446,217 | 113 | 2.06e+30 |
-| MD | <img src="/flags/MD.png" width="35" valign="middle"/> | Moldova | 952 | 1,346,142 | 1,452 | 1.24e+32 |
-| SY | <img src="/flags/SY.png" width="35" valign="middle"/> | Syrian Arab Republic | 302 | 1,319,692 | 78 | 1.42e+31 |
-| GE | <img src="/flags/GE.png" width="35" valign="middle"/> | Georgia | 485 | 1,305,237 | 245 | 3.49e+31 |
-| QA | <img src="/flags/QA.png" width="35" valign="middle"/> | Qatar | 447 | 1,302,607 | 241 | 8.42e+30 |
-| AO | <img src="/flags/AO.png" width="35" valign="middle"/> | Angola | 383 | 1,290,740 | 158 | 3.01e+30 |
-| PY | <img src="/flags/PY.png" width="35" valign="middle"/> | Paraguay | 453 | 1,246,745 | 204 | 7.21e+30 |
-| BO | <img src="/flags/BO.png" width="35" valign="middle"/> | Bolivia | 394 | 1,215,260 | 164 | 2.70e+30 |
-| CY | <img src="/flags/CY.png" width="35" valign="middle"/> | Cyprus | 908 | 1,158,543 | 647 | 2.09e+32 |
-| PR | <img src="/flags/PR.png" width="35" valign="middle"/> | Puerto Rico | 576 | 1,153,554 | 280 | 4.06e+30 |
-| TZ | <img src="/flags/TZ.png" width="35" valign="middle"/> | United Republic of Tanzania | 331 | 1,144,482 | 172 | 4.60e+30 |
+| CI | <img src="/flags/CI.png" width="35" valign="middle"/> | Cote D'Ivoire | 348 | 1,813,100 | 107 | 3.34e+30 |
+| PA | <img src="/flags/PA.png" width="35" valign="middle"/> | Panama | 576 | 1,806,809 | 345 | 1.00e+31 |
+| ZM | <img src="/flags/ZM.png" width="35" valign="middle"/> | Zambia | 166 | 1,655,816 | 88 | 7.14e+29 |
+| EE | <img src="/flags/EE.png" width="35" valign="middle"/> | Estonia | 1,065 | 1,629,636 | 546 | 6.22e+31 |
+| UG | <img src="/flags/UG.png" width="35" valign="middle"/> | Uganda | 223 | 1,466,697 | 113 | 2.06e+30 |
+| LU | <img src="/flags/LU.png" width="35" valign="middle"/> | Luxembourg | 1,593 | 1,432,225 | 409 | 3.89e+31 |
+| MD | <img src="/flags/MD.png" width="35" valign="middle"/> | Moldova | 950 | 1,348,436 | 1,450 | 1.24e+32 |
+| SY | <img src="/flags/SY.png" width="35" valign="middle"/> | Syrian Arab Republic | 300 | 1,310,603 | 78 | 1.42e+31 |
+| GE | <img src="/flags/GE.png" width="35" valign="middle"/> | Georgia | 496 | 1,306,516 | 241 | 3.49e+31 |
+| QA | <img src="/flags/QA.png" width="35" valign="middle"/> | Qatar | 449 | 1,303,632 | 240 | 8.42e+30 |
+| AO | <img src="/flags/AO.png" width="35" valign="middle"/> | Angola | 382 | 1,298,931 | 158 | 3.01e+30 |
+| PY | <img src="/flags/PY.png" width="35" valign="middle"/> | Paraguay | 460 | 1,260,313 | 200 | 7.21e+30 |
+| PR | <img src="/flags/PR.png" width="35" valign="middle"/> | Puerto Rico | 710 | 1,243,071 | 262 | 4.07e+30 |
+| BO | <img src="/flags/BO.png" width="35" valign="middle"/> | Bolivia | 396 | 1,216,284 | 164 | 2.70e+30 |
+| CY | <img src="/flags/CY.png" width="35" valign="middle"/> | Cyprus | 929 | 1,172,620 | 635 | 2.09e+32 |
+| TZ | <img src="/flags/TZ.png" width="35" valign="middle"/> | United Republic of Tanzania | 336 | 1,160,354 | 172 | 4.60e+30 |
 | OM | <img src="/flags/OM.png" width="35" valign="middle"/> | Oman | 326 | 1,109,951 | 162 | 1.02e+31 |
-| XX | <img src="/flags/XX.png" width="35" valign="middle"/> | Unknown | 1,238 | 1,039,635 | 794 | 4.40e+30 |
-| IS | <img src="/flags/IS.png" width="35" valign="middle"/> | Iceland | 363 | 937,219 | 324 | 2.59e+31 |
-| BH | <img src="/flags/BH.png" width="35" valign="middle"/> | Bahrain | 255 | 921,621 | 190 | 7.32e+30 |
+| XX | <img src="/flags/XX.png" width="35" valign="middle"/> | Unknown | 1,240 | 1,039,923 | 794 | 4.40e+30 |
+| IS | <img src="/flags/IS.png" width="35" valign="middle"/> | Iceland | 362 | 936,963 | 319 | 2.59e+31 |
+| BH | <img src="/flags/BH.png" width="35" valign="middle"/> | Bahrain | 257 | 923,159 | 191 | 7.32e+30 |
 | PS | <img src="/flags/PS.png" width="35" valign="middle"/> | State of Palestine | 303 | 847,686 | 150 | 1.75e+31 |
-| IQ | <img src="/flags/IQ.png" width="35" valign="middle"/> | Iraq | 684 | 828,643 | 912 | 6.17e+31 |
-| BA | <img src="/flags/BA.png" width="35" valign="middle"/> | Bosnia and Herzegovina | 306 | 821,440 | 138 | 1.22e+31 |
-| AZ | <img src="/flags/AZ.png" width="35" valign="middle"/> | Azerbaijan | 386 | 782,755 | 243 | 3.48e+31 |
-| MK | <img src="/flags/MK.png" width="35" valign="middle"/> | North Macedonia | 257 | 709,982 | 130 | 1.89e+31 |
-| GT | <img src="/flags/GT.png" width="35" valign="middle"/> | Guatemala | 549 | 707,097 | 232 | 5.63e+30 |
-| SV | <img src="/flags/SV.png" width="35" valign="middle"/> | El Salvador | 294 | 703,223 | 164 | 3.41e+30 |
-| MT | <img src="/flags/MT.png" width="35" valign="middle"/> | Malta | 307 | 688,699 | 110 | 8.80e+30 |
-| JO | <img src="/flags/JO.png" width="35" valign="middle"/> | Jordan | 426 | 663,378 | 164 | 2.04e+31 |
+| BA | <img src="/flags/BA.png" width="35" valign="middle"/> | Bosnia and Herzegovina | 304 | 830,655 | 135 | 1.22e+31 |
+| IQ | <img src="/flags/IQ.png" width="35" valign="middle"/> | Iraq | 683 | 828,387 | 912 | 6.17e+31 |
+| AZ | <img src="/flags/AZ.png" width="35" valign="middle"/> | Azerbaijan | 394 | 783,007 | 244 | 3.48e+31 |
+| SV | <img src="/flags/SV.png" width="35" valign="middle"/> | El Salvador | 290 | 713,079 | 161 | 3.41e+30 |
+| MK | <img src="/flags/MK.png" width="35" valign="middle"/> | North Macedonia | 257 | 709,214 | 127 | 1.89e+31 |
+| GT | <img src="/flags/GT.png" width="35" valign="middle"/> | Guatemala | 502 | 702,345 | 222 | 5.63e+30 |
+| MT | <img src="/flags/MT.png" width="35" valign="middle"/> | Malta | 303 | 685,981 | 108 | 8.80e+30 |
+| RE | <img src="/flags/RE.png" width="35" valign="middle"/> | Reunion | 200 | 669,874 | 70 | 2.15e+30 |
+| JO | <img src="/flags/JO.png" width="35" valign="middle"/> | Jordan | 431 | 663,380 | 164 | 2.04e+31 |
 | CM | <img src="/flags/CM.png" width="35" valign="middle"/> | Cameroon | 175 | 606,490 | 101 | 1.26e+30 |
-| NP | <img src="/flags/NP.png" width="35" valign="middle"/> | Nepal | 450 | 597,746 | 6,575 | 6.34e+30 |
-| LK | <img src="/flags/LK.png" width="35" valign="middle"/> | Sri Lanka | 249 | 591,768 | 192 | 1.19e+30 |
+| NP | <img src="/flags/NP.png" width="35" valign="middle"/> | Nepal | 449 | 597,490 | 264 | 6.26e+30 |
+| LK | <img src="/flags/LK.png" width="35" valign="middle"/> | Sri Lanka | 249 | 591,768 | 195 | 1.19e+30 |
 | MG | <img src="/flags/MG.png" width="35" valign="middle"/> | Madagascar | 110 | 590,035 | 80 | 4.02e+29 |
 | LB | <img src="/flags/LB.png" width="35" valign="middle"/> | Lebanon | 385 | 585,041 | 220 | 5.15e+31 |
-| AM | <img src="/flags/AM.png" width="35" valign="middle"/> | Armenia | 332 | 582,955 | 433 | 2.27e+31 |
-| TT | <img src="/flags/TT.png" width="35" valign="middle"/> | Trinidad and Tobago | 184 | 568,901 | 150 | 2.54e+30 |
+| AM | <img src="/flags/AM.png" width="35" valign="middle"/> | Armenia | 328 | 581,931 | 433 | 2.27e+31 |
 | MW | <img src="/flags/MW.png" width="35" valign="middle"/> | Malawi | 120 | 561,869 | 94 | 2.28e+31 |
-| KH | <img src="/flags/KH.png" width="35" valign="middle"/> | Cambodia | 528 | 557,910 | 211 | 4.91e+30 |
-| NA | <img src="/flags/NA.png" width="35" valign="middle"/> | Namibia | 164 | 484,122 | 69 | 5.55e+29 |
+| KH | <img src="/flags/KH.png" width="35" valign="middle"/> | Cambodia | 527 | 557,654 | 499 | 4.91e+30 |
+| TT | <img src="/flags/TT.png" width="35" valign="middle"/> | Trinidad and Tobago | 170 | 554,821 | 148 | 2.54e+30 |
+| HN | <img src="/flags/HN.png" width="35" valign="middle"/> | Honduras | 357 | 491,130 | 227 | 6.74e+30 |
 | LY | <img src="/flags/LY.png" width="35" valign="middle"/> | Libya | 151 | 481,282 | 75 | 1.27e+30 |
-| HN | <img src="/flags/HN.png" width="35" valign="middle"/> | Honduras | 354 | 476,036 | 228 | 6.74e+30 |
-| MZ | <img src="/flags/MZ.png" width="35" valign="middle"/> | Mozambique | 165 | 475,632 | 87 | 1.19e+30 |
-| NI | <img src="/flags/NI.png" width="35" valign="middle"/> | Nicaragua | 185 | 441,708 | 99 | 1.59e+30 |
-| RE | <img src="/flags/RE.png" width="35" valign="middle"/> | Reunion | 169 | 432,315 | 72 | 2.14e+30 |
+| MZ | <img src="/flags/MZ.png" width="35" valign="middle"/> | Mozambique | 165 | 475,632 | 88 | 1.19e+30 |
+| NA | <img src="/flags/NA.png" width="35" valign="middle"/> | Namibia | 141 | 462,876 | 69 | 5.55e+29 |
+| NI | <img src="/flags/NI.png" width="35" valign="middle"/> | Nicaragua | 180 | 441,452 | 99 | 1.59e+30 |
 | SN | <img src="/flags/SN.png" width="35" valign="middle"/> | Senegal | 129 | 418,812 | 99 | 3.98e+29 |
-| UZ | <img src="/flags/UZ.png" width="35" valign="middle"/> | Uzbekistan | 542 | 410,195 | 206 | 2.05e+31 |
-| GA | <img src="/flags/GA.png" width="35" valign="middle"/> | Gabon | 83 | 397,535 | 69 | 5.56e+29 |
-| ET | <img src="/flags/ET.png" width="35" valign="middle"/> | Ethiopia | 100 | 375,798 | 77 | 3.18e+29 |
-| MO | <img src="/flags/MO.png" width="35" valign="middle"/> | Macau | 116 | 370,211 | 601 | 7.15e+29 |
+| UZ | <img src="/flags/UZ.png" width="35" valign="middle"/> | Uzbekistan | 545 | 410,963 | 206 | 2.05e+31 |
+| MO | <img src="/flags/MO.png" width="35" valign="middle"/> | Macau | 117 | 378,403 | 603 | 7.15e+29 |
+| ET | <img src="/flags/ET.png" width="35" valign="middle"/> | Ethiopia | 99 | 374,774 | 77 | 3.18e+29 |
+| GA | <img src="/flags/GA.png" width="35" valign="middle"/> | Gabon | 83 | 364,767 | 68 | 5.56e+29 |
 | TG | <img src="/flags/TG.png" width="35" valign="middle"/> | Togo | 85 | 359,644 | 61 | 4.76e+29 |
-| AL | <img src="/flags/AL.png" width="35" valign="middle"/> | Albania | 401 | 354,561 | 926 | 4.94e+31 |
+| AL | <img src="/flags/AL.png" width="35" valign="middle"/> | Albania | 401 | 354,561 | 1,103 | 4.94e+31 |
 | BF | <img src="/flags/BF.png" width="35" valign="middle"/> | Burkina Faso | 132 | 348,511 | 104 | 1.67e+30 |
-| RW | <img src="/flags/RW.png" width="35" valign="middle"/> | Rwanda | 124 | 318,763 | 79 | 2.12e+31 |
-| KG | <img src="/flags/KG.png" width="35" valign="middle"/> | Kyrgyzstan | 232 | 297,850 | 164 | 1.01e+31 |
+| RW | <img src="/flags/RW.png" width="35" valign="middle"/> | Rwanda | 118 | 319,275 | 79 | 2.12e+31 |
+| KG | <img src="/flags/KG.png" width="35" valign="middle"/> | Kyrgyzstan | 223 | 297,083 | 164 | 1.01e+31 |
+| JM | <img src="/flags/JM.png" width="35" valign="middle"/> | Jamaica | 250 | 286,021 | 137 | 2.07e+31 |
+| GP | <img src="/flags/GP.png" width="35" valign="middle"/> | Guadeloupe | 256 | 282,096 | 73 | 8.85e+29 |
 | GM | <img src="/flags/GM.png" width="35" valign="middle"/> | Gambia | 83 | 279,822 | 73 | 7.14e+29 |
-| MM | <img src="/flags/MM.png" width="35" valign="middle"/> | Myanmar | 445 | 274,852 | 322 | 5.86e+30 |
+| MM | <img src="/flags/MM.png" width="35" valign="middle"/> | Myanmar | 446 | 276,900 | 329 | 5.86e+30 |
 | CU | <img src="/flags/CU.png" width="35" valign="middle"/> | Cuba | 92 | 260,015 | 79 | 4.76e+29 |
-| YE | <img src="/flags/YE.png" width="35" valign="middle"/> | Yemen | 129 | 244,951 | 85 | 3.80e+30 |
-| GU | <img src="/flags/GU.png" width="35" valign="middle"/> | Guam | 149 | 232,616 | 92 | 6.35e+29 |
-| JM | <img src="/flags/JM.png" width="35" valign="middle"/> | Jamaica | 234 | 228,938 | 146 | 2.07e+31 |
-| ZW | <img src="/flags/ZW.png" width="35" valign="middle"/> | Zimbabwe | 211 | 226,823 | 119 | 1.20e+30 |
-| BN | <img src="/flags/BN.png" width="35" valign="middle"/> | Brunei | 117 | 223,154 | 74 | 3.97e+29 |
-| CD | <img src="/flags/CD.png" width="35" valign="middle"/> | The Democratic Republic of the Congo | 231 | 207,000 | 132 | 2.78e+30 |
-| ME | <img src="/flags/ME.png" width="35" valign="middle"/> | Montenegro | 153 | 201,351 | 96 | 7.92e+30 |
-| CW | <img src="/flags/CW.png" width="35" valign="middle"/> | Curaçao | 115 | 197,477 | 84 | 2.85e+30 |
-| MN | <img src="/flags/MN.png" width="35" valign="middle"/> | Mongolia | 251 | 188,120 | 234 | 2.46e+30 |
-| AF | <img src="/flags/AF.png" width="35" valign="middle"/> | Afghanistan | 218 | 185,534 | 476 | 2.06e+30 |
-| BW | <img src="/flags/BW.png" width="35" valign="middle"/> | Botswana | 146 | 172,813 | 81 | 1.27e+30 |
-| BS | <img src="/flags/BS.png" width="35" valign="middle"/> | Bahamas | 158 | 160,781 | 127 | 2.45e+29 |
+| ZW | <img src="/flags/ZW.png" width="35" valign="middle"/> | Zimbabwe | 227 | 258,052 | 119 | 1.28e+30 |
+| MQ | <img src="/flags/MQ.png" width="35" valign="middle"/> | Martinique | 169 | 249,521 | 62 | 2.17e+30 |
+| YE | <img src="/flags/YE.png" width="35" valign="middle"/> | Yemen | 127 | 239,831 | 85 | 3.80e+30 |
+| CD | <img src="/flags/CD.png" width="35" valign="middle"/> | The Democratic Republic of the Congo | 232 | 226,968 | 132 | 2.78e+30 |
+| GU | <img src="/flags/GU.png" width="35" valign="middle"/> | Guam | 137 | 223,530 | 107 | 6.35e+29 |
+| BN | <img src="/flags/BN.png" width="35" valign="middle"/> | Brunei | 116 | 222,898 | 72 | 3.97e+29 |
+| VI | <img src="/flags/VI.png" width="35" valign="middle"/> | Virgin Islands, U.S. | 215 | 217,166 | 108 | 4.77e+29 |
+| ME | <img src="/flags/ME.png" width="35" valign="middle"/> | Montenegro | 152 | 201,095 | 96 | 7.92e+30 |
+| CW | <img src="/flags/CW.png" width="35" valign="middle"/> | Curaçao | 114 | 196,455 | 84 | 2.85e+30 |
+| MN | <img src="/flags/MN.png" width="35" valign="middle"/> | Mongolia | 251 | 188,120 | 241 | 2.46e+30 |
+| AF | <img src="/flags/AF.png" width="35" valign="middle"/> | Afghanistan | 218 | 185,534 | 479 | 2.06e+30 |
+| BW | <img src="/flags/BW.png" width="35" valign="middle"/> | Botswana | 149 | 174,863 | 81 | 1.27e+30 |
+| BS | <img src="/flags/BS.png" width="35" valign="middle"/> | Bahamas | 158 | 160,781 | 121 | 2.45e+29 |
 | HT | <img src="/flags/HT.png" width="35" valign="middle"/> | Haiti | 99 | 160,189 | 100 | 3.97e+29 |
-| XK | <img src="/flags/XK.png" width="35" valign="middle"/> | Kosovo | 45 | 159,814 | 47 | 1.35e+30 |
-| BJ | <img src="/flags/BJ.png" width="35" valign="middle"/> | Benin | 104 | 153,945 | 77 | 9.52e+29 |
-| JE | <img src="/flags/JE.png" width="35" valign="middle"/> | Jersey | 118 | 149,597 | 75 | 4.68e+30 |
-| FJ | <img src="/flags/FJ.png" width="35" valign="middle"/> | Fiji | 123 | 149,426 | 77 | 7.93e+29 |
-| NC | <img src="/flags/NC.png" width="35" valign="middle"/> | New Caledonia | 94 | 149,164 | 93 | 8.73e+29 |
+| XK | <img src="/flags/XK.png" width="35" valign="middle"/> | Kosovo | 44 | 158,790 | 47 | 1.35e+30 |
+| BJ | <img src="/flags/BJ.png" width="35" valign="middle"/> | Benin | 105 | 158,041 | 77 | 9.52e+29 |
+| JE | <img src="/flags/JE.png" width="35" valign="middle"/> | Jersey | 124 | 156,765 | 74 | 4.68e+30 |
+| FJ | <img src="/flags/FJ.png" width="35" valign="middle"/> | Fiji | 123 | 149,426 | 80 | 7.93e+29 |
+| NC | <img src="/flags/NC.png" width="35" valign="middle"/> | New Caledonia | 94 | 149,164 | 92 | 8.73e+29 |
 | CG | <img src="/flags/CG.png" width="35" valign="middle"/> | Congo | 93 | 148,398 | 67 | 6.35e+29 |
-| VI | <img src="/flags/VI.png" width="35" valign="middle"/> | Virgin Islands, U.S. | 120 | 144,482 | 115 | 4.77e+29 |
-| IM | <img src="/flags/IM.png" width="35" valign="middle"/> | Isle of Man | 196 | 137,645 | 136 | 7.93e+30 |
-| BB | <img src="/flags/BB.png" width="35" valign="middle"/> | Barbados | 199 | 136,108 | 87 | 1.34e+30 |
-| BZ | <img src="/flags/BZ.png" width="35" valign="middle"/> | Belize | 198 | 135,305 | 146 | 4.44e+30 |
-| MQ | <img src="/flags/MQ.png" width="35" valign="middle"/> | Martinique | 194 | 133,357 | 59 | 2.14e+30 |
-| BM | <img src="/flags/BM.png" width="35" valign="middle"/> | Bermuda | 147 | 131,056 | 85 | 8.73e+29 |
-| GP | <img src="/flags/GP.png" width="35" valign="middle"/> | Guadeloupe | 133 | 129,277 | 72 | 8.73e+29 |
+| IM | <img src="/flags/IM.png" width="35" valign="middle"/> | Isle of Man | 196 | 137,645 | 133 | 7.93e+30 |
+| BB | <img src="/flags/BB.png" width="35" valign="middle"/> | Barbados | 193 | 135,724 | 87 | 1.34e+30 |
+| BZ | <img src="/flags/BZ.png" width="35" valign="middle"/> | Belize | 196 | 134,793 | 144 | 4.44e+30 |
+| BM | <img src="/flags/BM.png" width="35" valign="middle"/> | Bermuda | 147 | 131,056 | 84 | 8.73e+29 |
 | LS | <img src="/flags/LS.png" width="35" valign="middle"/> | Lesotho | 77 | 128,913 | 63 | 4.76e+29 |
-| KY | <img src="/flags/KY.png" width="35" valign="middle"/> | Cayman Islands | 161 | 118,151 | 82 | 3.23e+29 |
-| AW | <img src="/flags/AW.png" width="35" valign="middle"/> | Aruba | 83 | 113,592 | 77 | 1.60e+29 |
-| LI | <img src="/flags/LI.png" width="35" valign="middle"/> | Liechtenstein | 378 | 110,506 | 106 | 8.40e+30 |
+| GF | <img src="/flags/GF.png" width="35" valign="middle"/> | French Guiana | 111 | 122,890 | 56 | 5.11e+29 |
+| KY | <img src="/flags/KY.png" width="35" valign="middle"/> | Cayman Islands | 159 | 120,711 | 81 | 3.23e+29 |
+| AW | <img src="/flags/AW.png" width="35" valign="middle"/> | Aruba | 83 | 113,592 | 79 | 1.60e+29 |
+| LI | <img src="/flags/LI.png" width="35" valign="middle"/> | Liechtenstein | 377 | 110,250 | 106 | 8.40e+30 |
 | LA | <img src="/flags/LA.png" width="35" valign="middle"/> | Lao People's Democratic Republic | 162 | 110,128 | 106 | 1.43e+30 |
-| AG | <img src="/flags/AG.png" width="35" valign="middle"/> | Antigua and Barbuda | 174 | 105,864 | 139 | 8.77e+29 |
-| GI | <img src="/flags/GI.png" width="35" valign="middle"/> | Gibraltar | 159 | 105,144 | 69 | 3.09e+30 |
-| MV | <img src="/flags/MV.png" width="35" valign="middle"/> | Maldives | 140 | 104,387 | 102 | 3.18e+29 |
+| VG | <img src="/flags/VG.png" width="35" valign="middle"/> | Virgin Islands, British | 226 | 104,577 | 404 | 1.54e+31 |
+| MV | <img src="/flags/MV.png" width="35" valign="middle"/> | Maldives | 140 | 104,387 | 1,564 | 3.20e+29 |
+| GI | <img src="/flags/GI.png" width="35" valign="middle"/> | Gibraltar | 153 | 104,136 | 69 | 3.09e+30 |
+| TJ | <img src="/flags/TJ.png" width="35" valign="middle"/> | Tajikistan | 143 | 99,070 | 101 | 1.05e+31 |
 | ML | <img src="/flags/ML.png" width="35" valign="middle"/> | Mali | 86 | 97,223 | 60 | 3.98e+29 |
-| TJ | <img src="/flags/TJ.png" width="35" valign="middle"/> | Tajikistan | 145 | 96,766 | 101 | 1.05e+31 |
 | SL | <img src="/flags/SL.png" width="35" valign="middle"/> | Sierra Leone | 96 | 92,608 | 72 | 4.77e+29 |
-| VG | <img src="/flags/VG.png" width="35" valign="middle"/> | Virgin Islands, British | 210 | 91,649 | 404 | 1.54e+31 |
+| YT | <img src="/flags/YT.png" width="35" valign="middle"/> | Mayotte | 71 | 88,707 | 55 | 8.18e+28 |
 | SR | <img src="/flags/SR.png" width="35" valign="middle"/> | Suriname | 68 | 88,329 | 74 | 3.18e+29 |
-| MC | <img src="/flags/MC.png" width="35" valign="middle"/> | Monaco | 244 | 81,367 | 77 | 2.69e+30 |
-| PF | <img src="/flags/PF.png" width="35" valign="middle"/> | French Polynesia | 101 | 78,277 | 117 | 3.97e+29 |
-| PG | <img src="/flags/PG.png" width="35" valign="middle"/> | Papua New Guinea | 219 | 76,381 | 109 | 1.03e+30 |
+| MC | <img src="/flags/MC.png" width="35" valign="middle"/> | Monaco | 244 | 81,367 | 76 | 2.69e+30 |
+| PF | <img src="/flags/PF.png" width="35" valign="middle"/> | French Polynesia | 101 | 78,277 | 116 | 3.97e+29 |
+| PG | <img src="/flags/PG.png" width="35" valign="middle"/> | Papua New Guinea | 219 | 76,381 | 110 | 1.03e+30 |
 | GY | <img src="/flags/GY.png" width="35" valign="middle"/> | Guyana | 71 | 74,735 | 73 | 6.36e+29 |
-| AD | <img src="/flags/AD.png" width="35" valign="middle"/> | Andorra | 232 | 69,779 | 130 | 5.56e+29 |
+| AD | <img src="/flags/AD.png" width="35" valign="middle"/> | Andorra | 231 | 69,523 | 130 | 5.56e+29 |
+| GG | <img src="/flags/GG.png" width="35" valign="middle"/> | Guernsey | 105 | 68,538 | 87 | 3.41e+30 |
+| AG | <img src="/flags/AG.png" width="35" valign="middle"/> | Antigua and Barbuda | 120 | 65,547 | 139 | 8.77e+29 |
 | MR | <img src="/flags/MR.png" width="35" valign="middle"/> | Mauritania | 83 | 60,115 | 68 | 3.98e+29 |
 | SZ | <img src="/flags/SZ.png" width="35" valign="middle"/> | Eswatini | 77 | 59,597 | 70 | 5.56e+29 |
 | DJ | <img src="/flags/DJ.png" width="35" valign="middle"/> | Djibouti | 72 | 59,397 | 79 | 7.94e+29 |
 | SO | <img src="/flags/SO.png" width="35" valign="middle"/> | Somalia | 81 | 55,788 | 110 | 8.73e+29 |
 | CV | <img src="/flags/CV.png" width="35" valign="middle"/> | Cabo Verde | 95 | 55,753 | 73 | 2.39e+29 |
-| GG | <img src="/flags/GG.png" width="35" valign="middle"/> | Guernsey | 101 | 54,202 | 88 | 3.41e+30 |
 | NE | <img src="/flags/NE.png" width="35" valign="middle"/> | Niger | 67 | 53,962 | 59 | 3.19e+29 |
-| BT | <img src="/flags/BT.png" width="35" valign="middle"/> | Bhutan | 127 | 53,212 | 106 | 1.03e+30 |
+| BT | <img src="/flags/BT.png" width="35" valign="middle"/> | Bhutan | 127 | 53,212 | 107 | 1.03e+30 |
 | LR | <img src="/flags/LR.png" width="35" valign="middle"/> | Liberia | 98 | 45,308 | 78 | 4.77e+29 |
-| FO | <img src="/flags/FO.png" width="35" valign="middle"/> | Faroe Islands | 55 | 45,203 | 57 | 1.98e+30 |
-| GN | <img src="/flags/GN.png" width="35" valign="middle"/> | Guinea | 84 | 43,842 | 70 | 8.73e+29 |
+| FO | <img src="/flags/FO.png" width="35" valign="middle"/> | Faroe Islands | 55 | 45,203 | 55 | 1.98e+30 |
+| GN | <img src="/flags/GN.png" width="35" valign="middle"/> | Guinea | 83 | 43,586 | 70 | 8.73e+29 |
 | BI | <img src="/flags/BI.png" width="35" valign="middle"/> | Burundi | 69 | 42,947 | 57 | 3.97e+29 |
-| LC | <img src="/flags/LC.png" width="35" valign="middle"/> | Saint Lucia | 110 | 42,709 | 68 | 1.42e+30 |
-| YT | <img src="/flags/YT.png" width="35" valign="middle"/> | Mayotte | 63 | 41,091 | 54 | 8.05e+28 |
+| AX | <img src="/flags/AX.png" width="35" valign="middle"/> | Aland Islands | 65 | 42,380 | 110 | 8.73e+29 |
+| LC | <img src="/flags/LC.png" width="35" valign="middle"/> | Saint Lucia | 108 | 40,661 | 72 | 1.42e+30 |
+| GD | <img src="/flags/GD.png" width="35" valign="middle"/> | Grenada | 113 | 40,479 | 78 | 1.44e+30 |
 | SM | <img src="/flags/SM.png" width="35" valign="middle"/> | San Marino | 96 | 39,355 | 60 | 3.57e+30 |
-| SX | <img src="/flags/SX.png" width="35" valign="middle"/> | Sint Maarten | 54 | 38,339 | 62 | 4.76e+29 |
-| GL | <img src="/flags/GL.png" width="35" valign="middle"/> | Greenland | 115 | 37,006 | 134 | 7.93e+29 |
-| GF | <img src="/flags/GF.png" width="35" valign="middle"/> | French Guiana | 72 | 34,000 | 52 | 4.76e+29 |
-| MH | <img src="/flags/MH.png" width="35" valign="middle"/> | Marshall Islands | 58 | 33,445 | 59 | 1.98e+30 |
-| TL | <img src="/flags/TL.png" width="35" valign="middle"/> | Timor-Leste | 106 | 32,028 | 69 | 7.14e+29 |
+| KN | <img src="/flags/KN.png" width="35" valign="middle"/> | Saint Kitts and Nevis | 91 | 38,218 | 73 | 6.93e+27 |
+| SX | <img src="/flags/SX.png" width="35" valign="middle"/> | Sint Maarten | 53 | 38,083 | 62 | 4.76e+29 |
+| GL | <img src="/flags/GL.png" width="35" valign="middle"/> | Greenland | 115 | 37,006 | 130 | 7.93e+29 |
+| MP | <img src="/flags/MP.png" width="35" valign="middle"/> | Northern Mariana Islands | 48 | 34,979 | 60 | 8.02e+28 |
+| MH | <img src="/flags/MH.png" width="35" valign="middle"/> | Marshall Islands | 65 | 32,165 | 59 | 1.98e+30 |
+| TL | <img src="/flags/TL.png" width="35" valign="middle"/> | Timor-Leste | 106 | 32,028 | 68 | 7.14e+29 |
 | SS | <img src="/flags/SS.png" width="35" valign="middle"/> | South Sudan | 102 | 32,014 | 71 | 5.56e+29 |
-| GD | <img src="/flags/GD.png" width="35" valign="middle"/> | Grenada | 109 | 31,519 | 78 | 1.44e+30 |
-| TD | <img src="/flags/TD.png" width="35" valign="middle"/> | Chad | 99 | 31,274 | 68 | 2.39e+29 |
-| AX | <img src="/flags/AX.png" width="35" valign="middle"/> | Aland Islands | 65 | 30,604 | 110 | 8.73e+29 |
+| TD | <img src="/flags/TD.png" width="35" valign="middle"/> | Chad | 99 | 31,274 | 69 | 2.39e+29 |
+| AS | <img src="/flags/AS.png" width="35" valign="middle"/> | American Samoa | 72 | 29,134 | 353 | 1.60e+29 |
 | BQ | <img src="/flags/BQ.png" width="35" valign="middle"/> | Caribbean Netherlands | 49 | 28,637 | 65 | 1.03e+30 |
 | TM | <img src="/flags/TM.png" width="35" valign="middle"/> | Turkmenistan | 80 | 28,341 | 70 | 1.27e+30 |
-| VC | <img src="/flags/VC.png" width="35" valign="middle"/> | Saint Vincent and the Grenadines | 91 | 26,331 | 59 | 1.27e+30 |
-| KN | <img src="/flags/KN.png" width="35" valign="middle"/> | Saint Kitts and Nevis | 78 | 24,779 | 73 | 6.93e+27 |
+| VC | <img src="/flags/VC.png" width="35" valign="middle"/> | Saint Vincent and the Grenadines | 89 | 25,435 | 60 | 1.28e+30 |
+| DM | <img src="/flags/DM.png" width="35" valign="middle"/> | Dominica | 93 | 25,397 | 74 | 7.98e+29 |
 | WS | <img src="/flags/WS.png" width="35" valign="middle"/> | Samoa | 73 | 23,773 | 59 | 3.18e+29 |
 | GQ | <img src="/flags/GQ.png" width="35" valign="middle"/> | Equatorial Guinea | 66 | 22,919 | 54 | 1.60e+29 |
-| VU | <img src="/flags/VU.png" width="35" valign="middle"/> | Vanuatu | 76 | 18,687 | 190 | 8.75e+29 |
-| AS | <img src="/flags/AS.png" width="35" valign="middle"/> | American Samoa | 66 | 18,142 | 353 | 1.60e+29 |
-| VA | <img src="/flags/VA.png" width="35" valign="middle"/> | Holy See (Vatican City State) | 47 | 18,041 | 72 | 1.90e+30 |
+| AI | <img src="/flags/AI.png" width="35" valign="middle"/> | Anguilla | 76 | 21,388 | 80 | 6.31e+27 |
+| VU | <img src="/flags/VU.png" width="35" valign="middle"/> | Vanuatu | 76 | 18,687 | 191 | 8.75e+29 |
 | SB | <img src="/flags/SB.png" width="35" valign="middle"/> | Solomon Islands | 62 | 17,260 | 58 | 3.18e+29 |
-| TC | <img src="/flags/TC.png" width="35" valign="middle"/> | Turks and Caicos Islands | 63 | 17,088 | 68 | 2.09e+28 |
-| MP | <img src="/flags/MP.png" width="35" valign="middle"/> | Northern Mariana Islands | 43 | 16,935 | 60 | 8.02e+28 |
+| VA | <img src="/flags/VA.png" width="35" valign="middle"/> | Holy See (Vatican City State) | 46 | 17,017 | 72 | 1.90e+30 |
+| TC | <img src="/flags/TC.png" width="35" valign="middle"/> | Turks and Caicos Islands | 61 | 16,320 | 68 | 2.09e+28 |
 | TO | <img src="/flags/TO.png" width="35" valign="middle"/> | Tonga | 63 | 15,036 | 56 | 3.18e+29 |
 | ST | <img src="/flags/ST.png" width="35" valign="middle"/> | Sao Tome and Principe | 58 | 14,201 | 62 | 8.03e+28 |
-| DM | <img src="/flags/DM.png" width="35" valign="middle"/> | Dominica | 76 | 13,751 | 74 | 7.98e+29 |
+| PW | <img src="/flags/PW.png" width="35" valign="middle"/> | Palau | 67 | 13,029 | 55 | 1.60e+29 |
 | NR | <img src="/flags/NR.png" width="35" valign="middle"/> | Nauru | 49 | 12,971 | 65 | 1.60e+29 |
 | FM | <img src="/flags/FM.png" width="35" valign="middle"/> | Federated States of Micronesia | 75 | 12,162 | 78 | 1.60e+29 |
 | TV | <img src="/flags/TV.png" width="35" valign="middle"/> | Tuvalu | 51 | 11,260 | 54 | 1.60e+29 |
 | KM | <img src="/flags/KM.png" width="35" valign="middle"/> | Comoros | 56 | 10,668 | 53 | 1.59e+29 |
-| PW | <img src="/flags/PW.png" width="35" valign="middle"/> | Palau | 64 | 10,469 | 55 | 1.60e+29 |
 | CK | <img src="/flags/CK.png" width="35" valign="middle"/> | Cook Islands | 46 | 9,886 | 67 | 1.59e+29 |
 | GW | <img src="/flags/GW.png" width="35" valign="middle"/> | Guinea-Bissau | 59 | 8,922 | 72 | 1.60e+29 |
 | CF | <img src="/flags/CF.png" width="35" valign="middle"/> | Central African Republic | 58 | 8,830 | 59 | 1.32e+27 |
-| AI | <img src="/flags/AI.png" width="35" valign="middle"/> | Anguilla | 60 | 8,588 | 80 | 6.31e+27 |
 | KI | <img src="/flags/KI.png" width="35" valign="middle"/> | Kiribati | 82 | 7,861 | 90 | 2.39e+29 |
 | ER | <img src="/flags/ER.png" width="35" valign="middle"/> | Eritrea | 63 | 7,384 | 63 | 1.05e+27 |
-| PM | <img src="/flags/PM.png" width="35" valign="middle"/> | Saint Pierre and Miquelon | 52 | 6,343 | 63 | 8.03e+28 |
-| MF | <img src="/flags/MF.png" width="35" valign="middle"/> | Saint Martin | 71 | 5,595 | 69 | 8.58e+28 |
+| PM | <img src="/flags/PM.png" width="35" valign="middle"/> | Saint Pierre and Miquelon | 61 | 7,364 | 63 | 8.03e+28 |
+| MF | <img src="/flags/MF.png" width="35" valign="middle"/> | Saint Martin | 72 | 6,619 | 69 | 8.58e+28 |
 | FK | <img src="/flags/FK.png" width="35" valign="middle"/> | Falkland Islands (Malvinas) | 42 | 5,503 | 56 | 1.05e+27 |
 | WF | <img src="/flags/WF.png" width="35" valign="middle"/> | Wallis and Futuna | 33 | 4,192 | 56 | 8.03e+28 |
 | TK | <img src="/flags/TK.png" width="35" valign="middle"/> | Tokelau | 33 | 3,720 | 68 | 8.03e+28 |
 | IO | <img src="/flags/IO.png" width="35" valign="middle"/> | British Indian Ocean Territory | 39 | 3,688 | 65 | 8.03e+28 |
-| KP | <img src="/flags/KP.png" width="35" valign="middle"/> | Democratic People's Republic of Korea | 12 | 2,573 | 532 | 1.24e+27 |
+| KP | <img src="/flags/KP.png" width="35" valign="middle"/> | Democratic People's Republic of Korea | 12 | 2,573 | 529 | 1.24e+27 |
 | MS | <img src="/flags/MS.png" width="35" valign="middle"/> | Montserrat | 39 | 2,572 | 58 | 1.05e+27 |
 | BL | <img src="/flags/BL.png" width="35" valign="middle"/> | Saint Barthelemy | 42 | 2,270 | 69 | 1.13e+28 |
-| AQ | <img src="/flags/AQ.png" width="35" valign="middle"/> | Antarctica | 49 | 1,842 | 744 | 8.06e+28 |
-| NU | <img src="/flags/NU.png" width="35" valign="middle"/> | Niue | 40 | 1,658 | 54 | 8.03e+28 |
+| AQ | <img src="/flags/AQ.png" width="35" valign="middle"/> | Antarctica | 49 | 1,842 | 747 | 8.06e+28 |
 | SH | <img src="/flags/SH.png" width="35" valign="middle"/> | Saint Helena | 16 | 1,038 | 22 | 9.91e+26 |
 | NF | <img src="/flags/NF.png" width="35" valign="middle"/> | Norfolk Island | 46 | 893 | 59 | 7.42e+26 |
+| NU | <img src="/flags/NU.png" width="35" valign="middle"/> | Niue | 39 | 634 | 54 | 8.03e+28 |
 | UM | <img src="/flags/UM.png" width="35" valign="middle"/> | United States Minor Outlying Islands | 28 | 610 | 77 | 1.06e+27 |
 | PN | <img src="/flags/PN.png" width="35" valign="middle"/> | Pitcairn | 15 | 527 | 27 | 9.93e+26 |
 | SJ | <img src="/flags/SJ.png" width="35" valign="middle"/> | Svalbard and Jan Mayen | 15 | 527 | 33 | 1.01e+27 |
